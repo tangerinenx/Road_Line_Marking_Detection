@@ -1,7 +1,7 @@
 # Road_Line_Marking_Detection
 My Bachelor's Final Project: LANE DETECTION AND ROAD LINE MARKING IDENTIFICATION FOR AUTONOMOUS CAR USING SEMANTIC SEGMENTATION CONVOLUTIONAL NEURAL NETWORK
 
-I differentiate the meaning dashed line and the solid/continue line when get detected by the system
+I differentiate the meaning of dashed line and the solid/continue line when get detected by the system. The training and testing dataset was all Jakarta, Indonesian's road.
 
 [Ground Truth]
 
