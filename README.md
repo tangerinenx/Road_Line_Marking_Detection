@@ -21,6 +21,6 @@ UNet (left) and SegNet (right). These are one of the frames of few seconds testi
 
 UNet (left) and SegNet (right)
 
-Video Demo:
+Video Demo: https://youtu.be/wMXNbHzH_zk
 
 I also make a comparisson of using Wiener Filter on both architecture applied to the training images. For further information, free to contact me.
